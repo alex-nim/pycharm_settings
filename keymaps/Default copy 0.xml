@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="ChooseDebugConfiguration" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
+</keymap>
