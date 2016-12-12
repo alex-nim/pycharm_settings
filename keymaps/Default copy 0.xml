@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy 0" parent="$default">
   <action id="ChooseDebugConfiguration" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -7,6 +10,7 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="GotoNextError" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
