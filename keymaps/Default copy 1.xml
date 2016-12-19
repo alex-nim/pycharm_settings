@@ -9,8 +9,18 @@
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="GotoNextError" />
+  <action id="ShowBookmarks" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -26,4 +36,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
 </keymap>
