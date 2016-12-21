@@ -20,7 +20,6 @@
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="GotoNextError" />
-  <action id="ShowBookmarks" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -39,5 +38,4 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
-  <action id="ToggleBookmarkWithMnemonic" />
 </keymap>
