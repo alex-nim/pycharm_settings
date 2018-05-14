@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="CreateRunConfiguration">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -42,8 +45,5 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl 1" />
-  </action>
-  <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="alt v" />
   </action>
 </keymap>
